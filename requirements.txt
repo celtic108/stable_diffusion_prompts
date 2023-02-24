@@ -1,0 +1,14 @@
+opencv-python==4.7.0.68
+omegaconf==2.3.0
+invisible-watermark
+einops==0.6.0
+pytorch-lightning
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+pandas
+sentence-transformers
+pyarrow
+tensorboard

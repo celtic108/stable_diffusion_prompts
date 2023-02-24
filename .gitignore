@@ -3,7 +3,22 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# Borrowed files
+diffuser_example.py
+
+# Output files
+*.csv
+
+# Data
+data/
+
+# Log files
+*tfevents*
+
+# Model files
+*model_*
+
+# # C extensions
 *.so
 
 # Distribution / packaging
